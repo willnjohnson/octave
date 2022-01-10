@@ -1,0 +1,33 @@
+% 2.1 Entering Commands %
+
+# Task 1: Multiply the numbers 3 and 5 together.
+
+3*5
+
+# Task 2: Assign the calculation to a variable named m.
+
+m = 3*5
+
+# Task 3: Enter the command m = m + 1 to see what happens.
+
+m = m+1
+
+# Task 4: Create a variable named y that has the value m/2.
+
+y = m/2
+
+# Task 5: Enter k = 8 - 2; (Note: The result won't appear in the command prompt)
+
+k = 8-2;
+
+# Task 6: Enter m = 3*k
+
+m = 3*k
+
+# Task 7: Enter just the variable name y at the command prompt (was y recalculated when m was modified?)
+
+y
+
+# Further Practice: y was unchanged. If you want to recalculate y after m is modified, you need to repeat the command y = m/2.
+
+y = m/2

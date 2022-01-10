@@ -1,0 +1,10 @@
+% 2.4 Using Built-in Functions and Constants %
+
+# Task 1: Create a variable called x with a value of PI/2.
+x = pi/2
+
+# Task 2: Use the sin function to acaalculate the sine of x. Assign the result to a variable named y.
+y = sin(x)
+
+# Task 3: Use the sqrt function to calculate the square root of -9. Assign the result to a variable named z.
+z = sqrt(-9)

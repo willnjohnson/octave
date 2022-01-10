@@ -1,0 +1,11 @@
+% 2.2 Naming Variables %
+
+a = 8
+
+# Task 1: Assign the value -2 to the variable A
+
+A = -2
+
+# Task 2: Calculate (a+A)/2. Assign the result to the variable avgAa.
+
+avgAa = (a+A)/2
